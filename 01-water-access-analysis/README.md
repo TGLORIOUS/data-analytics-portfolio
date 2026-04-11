@@ -14,9 +14,20 @@ real-world data from the WHO/UNICEF Joint Monitoring Programme (JMP).
 - `water_2000_2020.csv` — Time-series data across 231 countries (2015–2020)
 
 ## Tools Used
-- Google Sheets — data cleaning, transformation, visualization
+- Microsoft Excel
 - CSV data processing
+- Pivot Tables and Charts
 - Statistical analysis: averages, distributions, Annual Rate of Change (ARC)
+
+---
+
+## 📊 Visualizations
+
+### Global 2020 Dashboard — Water Access by Population
+![Global 2020 Dashboard](./images/dashboard_global_2020.png)
+
+### Pivot Table — Water Access by Income Group
+![Pivot Table Income Groups](./images/pivot_table_income_groups.png)
 
 ---
 
@@ -45,9 +56,6 @@ real-world data from the WHO/UNICEF Joint Monitoring Programme (JMP).
 | Liberia | 12.5% |
 
 ### 📈 Annual Rate of Change (ARC) — 2015 to 2020
-The ARC measures how fast each country is improving water access 
-per year.
-
 | Area | Average ARC |
 |------|------------|
 | National | +0.277% per year |
@@ -93,6 +101,7 @@ regions that historically had the lowest access levels.
 
 ## Skills Demonstrated
 - Real-world dataset import and cleaning
+- Pivot Table analysis by income group
 - Feature engineering (ARC calculations)
 - Cross-country and cross-regional comparative analysis
 - Data visualization and dashboard creation
