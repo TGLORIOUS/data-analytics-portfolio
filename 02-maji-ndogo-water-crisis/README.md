@@ -18,6 +18,19 @@ The `md_water_services` database contains the following tables:
 - `water_quality` — Subjective quality scores per visit
 - `auditor_report` — Independent audit results (imported CSV)
 
+## 📊 Visualizations
+
+### Water Source Distribution — Maji Ndogo
+![Water Source Distribution](./images/water_source_distribution.png)
+
+### Water Source Usage by Province
+![Province Water Analysis](./images/province_water_analysis.png)
+
+### Corruption Investigation Results
+![Corruption Investigation](./images/corruption_investigation.png)
+
+---
+
 ## Tools Used
 - MySQL (primary SQL engine)
 - SQL functions: CONCAT, LOWER, REPLACE, TRIM, LENGTH, ROUND, FLOOR
