@@ -21,13 +21,13 @@ The `md_water_services` database contains the following tables:
 ## 📊 Visualizations
 
 ### Water Source Distribution — Maji Ndogo
-![Water Source Distribution](./images/water_source_distribution.png)
+![Water Source Distribution](images/water_source_distribution.png)
 
 ### Water Source Usage by Province
-![Province Water Analysis](./images/province_water_analysis.png)
+![Province Water Analysis](images/province_water_analysis.png)
 
 ### Corruption Investigation Results
-![Corruption Investigation](./images/corruption_investigation.png)
+![Corruption Investigation](images/corruption_investigation.png)
 
 ---
 
