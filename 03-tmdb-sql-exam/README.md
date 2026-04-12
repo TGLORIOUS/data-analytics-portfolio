@@ -53,6 +53,13 @@ The TMDb database contains **12 tables**:
 
 ---
 
+## 📊 Visualizations
+
+### Genre Popularity & Top Production Companies
+![TMDB Analysis](03-tmdb-sql-exam/images/tmdb_analysis.png)
+
+---
+
 ## Key SQL Techniques Demonstrated
 
 **Multi-table JOINs** — Questions 5, 8, 9, 12, 14 required joining 3-4 tables
