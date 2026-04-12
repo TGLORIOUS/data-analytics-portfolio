@@ -20,6 +20,8 @@ data cleaning, analysis, visualization, and reporting.
 | # | Project | Tools Used | Description |
 |---|---------|------------|-------------|
 | 1 | [Global Drinking Water Access Analysis](./01-water-access-analysis) | Google Sheets, CSV | WHO/UNICEF global water data analysis aligned with UN SDG 6 |
+| 2 | [Maji Ndogo Water Crisis — SQL Analysis](./02-maji-ndogo-water-crisis) | MySQL, SQL | 4-part SQL project — data cleaning, JOINs, CTEs, corruption investigation, action planning on 60,000+ row database |
+| 3 | [TMDB SQL Exam](./03-tmdb-sql-exam) | SQL, SQLite | 15-question SQL exam on The Movie Database — JOINs, aggregations, views, subqueries |
 
 ---
 
