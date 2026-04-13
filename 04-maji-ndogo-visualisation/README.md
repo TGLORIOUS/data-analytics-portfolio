@@ -73,13 +73,13 @@ Linked water queue data to crime records:
 ## 📊 Visualizations
 
 ### National Overview — Population & Water Sources
-![National Overview](images/viz_national_overview.png)
+![National Overview](04-maji-ndogo-visualisation/images/viz_national_overview.png)
 
 ### Queue Time Analysis — When Citizens Collect Water
-![Queue Analysis](images/viz_queue_analysis.png)
+![Queue Analysis](04-maji-ndogo-visualisation/images/viz_queue_analysis.png)
 
 ### Gender Inequality & Broken Infrastructure by Province
-![Gender and Infrastructure](images/viz_gender_infrastructure.png)
+![Gender and Infrastructure](04-maji-ndogo-visualisation/images/viz_gender_infrastructure.png)
 
 ---
 
