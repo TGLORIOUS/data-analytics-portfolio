@@ -71,17 +71,16 @@ Completed as part of the ALX Africa / ExploreAI Data Analytics programme.
 ## 📊 Visualizations
 
 ### National Scale — Province Map & Water Sources
-![National Scale](images/p2_national_scale.png)
+![National Scale](05-maji-ndogo-visual-stories/images/p2_national_scale.png)
 
 ### Queue Analysis — Times & Gender Composition
-![Queue Analysis](images/p2_queue_analysis.png)
+![Queue Analysis](05-maji-ndogo-visual-stories/images/p2_queue_analysis.png)
 
 ### Well Pollution — Status & Province Breakdown
-![Well Pollution](images/p2_well_pollution.png)
+![Well Pollution](05-maji-ndogo-visual-stories/images/p2_well_pollution.png)
 
 ### Crime & Water — Gender Disparity Analysis
-![Crime Analysis](images/p2_crime_analysis.png)
-
+![Crime Analysis](05-maji-ndogo-visual-stories/images/p2_crime_analysis.png)
 ---
 
 ## Skills Demonstrated
