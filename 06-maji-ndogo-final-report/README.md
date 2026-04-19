@@ -78,16 +78,16 @@ Applied UN water service level standards to Maji Ndogo data:
 ## 📊 Visualizations
 
 ### National Report Dashboard — KPIs & Population Overview
-![National Report](images/p3_national_report.png)
+![National Report](06-maji-ndogo-final-report/images/p3_national_report.png)
 
 ### Budget Allocation & Improvement Types
-![Budget and Improvements](images/p3_budget_improvements.png)
+![Budget and Improvements](06-maji-ndogo-final-report/images/p3_budget_improvements.png)
 
 ### UN Water Service Level Classification
-![Service Levels](images/p3_service_levels.png)
+![Service Levels](06-maji-ndogo-final-report/images/p3_service_levels.png)
 
 ### Provincial Budget Summary Table
-![Provincial Budget](images/p3_provincial_budget.png)
+![Provincial Budget](06-maji-ndogo-final-report/images/p3_provincial_budget.png)
 
 ---
 
