@@ -24,6 +24,7 @@ data cleaning, analysis, visualization, and reporting.
 | 3 | [TMDB SQL Exam](./03-tmdb-sql-exam) | SQL, SQLite | 15-question SQL exam on The Movie Database — JOINs, aggregations, views, subqueries |
 | 4 | [Maji Ndogo — Data Visualisation](./04-maji-ndogo-visualisation) | Power BI | 5-page interactive dashboard — national overview, maps, queue analysis, gender inequality |
 | 5 | [Maji Ndogo — Visual Stories](./05-maji-ndogo-visual-stories) | Power BI | Advanced dashboards — data model, well pollution map, crime & gender disparity analysis |
+| 6 | [Maji Ndogo — Final Report](./06-maji-ndogo-final-report) | Power BI, DAX | Executive report for decision-makers — $147M budget plan, 34% → 98% water access roadmap |
 
 ---
 
